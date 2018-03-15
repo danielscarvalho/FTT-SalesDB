@@ -1,0 +1,134 @@
+ID;Occupation;Code
+1;Membro do Poder Executivo (Presidente da República, Vice-Presidente da República, Ministro de Estado, Governador, Vice-Governador, Prefeito, Vice-prefeito);101
+2;Membro do Poder Judiciário (Ministro, Juiz e Desembargador) e de Tribunal de Contas (Ministro e Conselheiro);102
+3;Membro do Poder Legislativo (Senador, Deputado Federal, Deputado Estadual e Vereador);103
+4;Membro do Ministério Público (Procurador e Promotor);104
+5;Dirigente superior da administração pública (ocupante de cargo de direção, chefia, assessoria e de natureza especial), inclusive os das fundações públicas e autarquias;105
+6;Diplomata e afins;106
+7;Servidor das carreiras do Poder Legislativo;107
+8;Servidor das carreiras do Ministério Público;108
+9;Servidor das carreiras do Poder Judiciário, Oficial de Justiça, Auxiliar, Assistente e Analista Judiciário;109
+10;Advogado do setor público, Procurador da Fazenda, Consultor Jurídico, Procurador de autarquias e fundações públicas, Defensor Público;110
+11;Servidor das carreiras de auditoria fiscal e de fiscalização;111
+12;Servidor das carreiras do Banco Central, CVM e Susep;112
+13;Delegado de Polícia e outros servidores das carreiras de polícia, exceto militar;113
+14;Servidor das carreiras de gestão governamental, analista, gestor e técnico de planejamento;114
+15;Servidor das carreiras de ciência e tecnologia;115
+16;Servidor das demais carreiras da administração pública direta, autárquica e fundacional;116
+17;Titular de Cartório;117
+18;irigente ou administrador de partido político, organização patronal, sindical, filantrópica e religiosa;118
+19;Dirigente, presidente e diretor de empresa industrial, comercial ou prestadora de serviços;120
+20;Presidente e diretor de empresa pública e sociedade de economia mista;121
+21;Gerente ou supervisor de empresa industrial, comercial ou prestadora de serviços;130
+22;Gerente ou supervisor de empresa pública e sociedade de economia mista;131
+23;Presidente, diretor, gerente e supervisor de organização não-governamental;140
+24;Matemático, estatístico, atuário e afins;211
+25;Analista de sistemas, desenvolvedor de software, admin. de redes e bancos de dados e outros especialistas em informática (exceto técnicos);212
+26;Físico, químico, meteorologista, geólogo, oceanógrafo e afins;213
+27;Engenheiro, arquiteto e afins;214
+28;Piloto de aeronaves, comandante de embarcações e oficiais de máquinas;215
+29;Biólogo, biomédico e afins;221
+30;Agrônomo e afins;222
+31;Profissional da educação física (exceto professor);224
+32;Médico;225
+33;Médico, odontólogo e afins;226
+34;Enfermeiro de nível superior, nutricionista, farmacêutico e afins;227
+35;Veterinário, patologista (veterinário) e zootecnista;228
+36;Fonoaudiólogo, fisioterapeuta, terapeuta ocupacional e afins;229
+37;Advogado;241
+38;Sociólogo e cientista político;250
+39;Antropólogo e arqueólogo;251
+40;Economista, administrador, contador, auditor e afins;252
+41;Profissional de marketing, publicidade e da comercialização;253
+42;Psicólogo e psicanalista;255
+43;Geógrafo;256
+44;Historiador;257
+45;Assistente social e economista doméstico;258
+46;Filósofo;259
+47;Jornalista e repórter;261
+48;Sacerdote ou membro de ordens ou seitas religiosas;263
+49;Tradutor, intérprete, filólogo;264
+50;Bibliotecário, documentalista, arquivólogo, museólogo;265
+51;Escritor, crítico, redator;266
+52;Locutor, comentarista;271
+53;Ator, diretor de espetáculos;272
+54;Cantor e compositor;273
+55;Músico, arranjador, regente de orquestra ou coral;274
+56;Desenhista industrial (designer), escultor, pintor artístico e afins;275
+57;Cenógrafo, decorador de interiores;276
+58;Empresário e produtor de espetáculos;277
+59;Outros profissionais do espetáculo e das artes;279
+60;Professor na educação infantil;290
+61;Professor do ensino fundamental;291
+62;Professor do ensino médio;292
+63;Professor do ensino profissional;293
+64;Professor do ensino superior;294
+65;Instrutor e professor de escolas livres;295
+66;Pedagogo, orientador educacional;296
+67;Técnico em ciências físicas e químicas;311
+68;Técnico em construção civil, de edificações e obras de infraestrutura;312
+69;Técnico em eletro-eletrônica e fotônica;313
+70;Técnico em metalmecânica;314
+71;Técnico em mineralogia e geologia;316
+72;Técnico em informática;317
+73;Desenhista técnico e modelista;318
+74;Outros técnicos de nível médio das ciências físicas, químicas, engenharia e afins;319
+75;Técnico em biologia;320
+76;Técnico da produção agropecuária;321
+77;Técnico da ciência da saúde humana;322
+78;Técnico da ciência da saúde animal;323
+79;Técnico de laboratório, Raios-X e outros equipamentos e instrumentos de diagnóstico;324
+80;Técnico de bioquímica e da biotecnologia;325
+81;Técnico de conservação, dissecação e empalhamento de corpos;328
+82;Técnico em navegação aérea, marítima, fluvial e metroferroviária;341
+83;Técnico em transportes (logística);342
+84;Técnico das ciências administrativas e contábeis;351
+85;Técnico de inspeção, fiscalização e coordenação administrativa;352
+86;Agente de Bolsa de Valores, câmbio e outros serviços financeiros;353
+87;Agente e representante comercial, corretor, leiloeiro e afins;354
+88;Técnico de serviços culturais;371
+89;Cinegrafista, fotógrafo e outros técnicos em operação de máquinas de tratamento de dados;372
+90;Técnico em operação de estações de rádio e televisão;373
+91;Técnico em operação de aparelhos de sonorização, cenografia e projeção;374
+92;Decorador e vitrinista;375
+93;Apresentador, artistas de artes populares e modelos;376
+94;Atleta, desportista e afins;377
+95;Outros técnicos de nível médio;391
+96;Bancário, economiário, escriturário, agente, assitente e auxiliar administrativo;410
+97;Trabalhador de atendimento ao público, caixa, despachante, recenseador e afins;420
+98;Comissário de bordo, guia de turismo, agente de viagem e afins;511
+99;Trabalhador dos serviços domésticos em geral;512
+100;Trabalhador dos serviços de hotelaria e alimentação;513
+101;Trabalhador dos serviços de administração, conservação e manutenção de edifícios;514
+102;Trabalhador dos serviços de saúde;515
+103;Trabalhador dos serviços de embelezamento e cuidados pessoais;516
+104;Trabalhador dos serviços de proteção e segurança (exceto militar);517
+105;Motorista e condutor do transporte de passageiros (motorista de táxi, ônibus, pequena embarcação, etc);518
+106;Outros trabalhadores de serviços diversos;519
+107;Supervisor de vendas e prestação de serviços do comércio;520
+108;Vendedor e prestador de serviços do comércio, ambulante, caixeiro-viajante e camelô;529
+109;Produtor na exploração agropecuária;610
+110;Trabalhador na exploração agropecuária;620
+111;Pescador, caçador e extrativista florestal;630
+112;Operador de máquina agropecuária e florestal;640
+113;Trabalhador da indústria extrativa e da construção civil;710
+114;Trabalhador da transformação de metais e compósitos;720
+115;Trabalhador da fabricação e instalação eletro-eletrônica;730
+116;Montador de aparelhos e instrumentos de precisão e musicais;740
+117;Joalheiro, vidreiro, ceramista e afins;750
+118;Trabalhador das indústrias têxteis, do curtimento, do vestuário e das artes gráficas;760
+119;Trabalhador das indústrias de madeira e do mobiliário;770
+120;Condutor e operador de robôs, veículos de equipamentos de movimentação de carga e afins;780
+121;Trabalhador das indústrias química, petroquímica, borracha, plástico e afins;810
+122;Trabalhador das indústrias química, petroquímica, borracha, plástico e afins;820
+123;Trabalhador de instalações e máquinas de fabricação de celusose e papel;830
+124;Trabalhador da fabricação de alimentos, bebidas, fumo e de agroindústrias;840
+125;Operador de instalações de produção e distribuição de energia;860
+126;Trabalhador de outras instalações agroindustriais;870
+127;Trabalhador de reparação e manutenção;900
+128;Militar da Aeronáutica;10
+129;Militar do Exército;20
+130;Militar da Marinha;30
+131;Policial Militar;40
+132;Bombeiro Militar;50
+133;Outras ocupações não classificadas anteriormente;0
